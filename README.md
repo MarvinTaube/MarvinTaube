@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarvinTaube
-- 👀 I’m interested in working on my own website for my portfolio
-- 🌱 I’m currently learning web development with Spring Boot and Vue.js. Furthermore I'm currently studying Computer Science at University Hamburg.
-- 💞️ I’m looking to collaborate on /
+- 👀 I’m interested in working on my own website for my portfolio (Pigeonport.de)
+- 🌱 I’m currently learning web development with Spring Boot. Furthermore I'm currently studying Computer Science at University Hamburg.
+- 💞️ I’m looking to collaborate on -
 - 📫 How to reach me if you want marvin.taube@pigeonport.de
 
 <!---
